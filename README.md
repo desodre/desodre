@@ -41,10 +41,6 @@ Deploy Plataforms:
 Outros:
 
 [![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
-)]
-
-[![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white
-)]
-
-[![qgis](https://img.shields.io/badge/qgis-3.22_białowieża-93b023?&style=for-the-badge&logo=qgis&logoColor=white
+)][![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white
+)][![qgis](https://img.shields.io/badge/qgis-3.22_białowieża-93b023?&style=for-the-badge&logo=qgis&logoColor=white
 )]
