@@ -21,25 +21,3 @@ Frameworks e Bibliotecas:
     <img align="center" alt="html5" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
 </div>
 
-
-
-Data Base:
-
-<div  style="display: inline_block "><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-</div>
-
-
-Deploy Plataforms: 
-
-<div  style="display: inline_block "><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-</div>
-
-Outros:
-<div  style="display: inline_block "><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/qgis-3.22_białowieża-93b023?&style=for-the-badge&logo=qgis&logoColor=white">
-</div>
