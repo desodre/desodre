@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jhonatha, a fullstack developer 🪄</h1>
+<h1 align="center">Hi, I'm Jhonatha, a android developer 🪄</h1>
 
 <p align="center">
   Graduating in Electrical Engineering from UFAM • Mobile Developer at Instituto Eldorado • Manaus, AM
